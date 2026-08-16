@@ -1,0 +1,6 @@
+{
+  "name": "AI Wafer Navigation Recovery",
+  "description": "Semiconductor inspection stage navigation error recovery dashboard utilizing a trained regression model and rule-based diagnostic engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
