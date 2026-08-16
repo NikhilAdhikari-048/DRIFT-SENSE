@@ -29,3 +29,6 @@ frontend/build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Large trained AI model
+model/navigation_ai.pkl
